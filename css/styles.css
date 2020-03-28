@@ -392,9 +392,6 @@ a:hover {
 .intro p {
     font-size: 1.25rem;
     font-weight: normal;
-    margin: 0 auto;
-    width: 50%;
-    line-height: 2;
 }
 
 #cloud-1 {
@@ -422,6 +419,12 @@ h2 {
 }
 .profile {
     margin: 60px auto;
+}
+
+.profile p {
+    margin: 0 auto;
+    width: 50%;
+    line-height: 2;
 }
 
 .profile img {
